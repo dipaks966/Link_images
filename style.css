@@ -1,0 +1,30 @@
+p{
+			color: red;
+			font-size: 20px;
+		}
+		h3{
+			color: violet;
+			font-size: 60px;
+		}
+		li{
+			list-style: none;
+			margin-bottom: 20px;
+		}
+		a{
+			background-color: red;
+			text-decoration: none;
+			border: solid 1px yellow;
+			color: yellow;
+			width: 100px;
+			margin: 10px;
+			padding: 5px;
+			display: block;
+			text-align: center;
+		}
+		a:hover{
+			background-color: black;
+		}
+		body{
+			text-align: center;
+			background-color: #333;
+		}

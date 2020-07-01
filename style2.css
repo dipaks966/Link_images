@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	background-color: coral;
+	text-align: center;
+}
+.content{
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+	color: white;	
+}
+#box{
+	background-color: brown;
+	padding: 10px;
+	margin: 15px;
+	width: 200px;
+	border: 20px solid black;
+	box-sizing: border-box;
+}
